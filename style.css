@@ -1,0 +1,62 @@
+*{
+    background-color: #cd5c5c;
+}
+
+
+div{
+    display: block;
+}
+.zero{
+    text-align: center;
+    padding:20px;
+
+}
+.one{
+    color: #f5f5dc;
+    font-size: 25px;
+    padding: 25px;
+    background-color: #a52a2a;
+
+}
+.one a:hover{
+    color: #008b8b;
+    cursor: pointer;
+} 
+.para{
+    font-family: "Poppins", sans-serif;
+    ;
+    color:#ffe4c4
+}
+.p1{
+    text-align: center;
+    font-size: 70px;
+    color: #f5f5dc;
+    
+}
+
+
+.p2{
+    text-align: center;
+    font-size: 70px;
+    color: #f5f5dc;
+
+
+}
+.p3{
+    text-align: center;
+    font-size: 70px;
+    color: #f5f5dc;
+
+}
+.p4{
+    text-align: center;
+    font-size: 70px;
+    color: #f5f5dc;
+
+}
+.p5{
+    text-align: center;
+    font-size: 70px;
+    color: #f5f5dc;
+
+}
