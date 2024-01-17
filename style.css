@@ -39,6 +39,7 @@ div{
     text-align: center;
     font-size: 70px;
     color: #f5f5dc;
+    
 
 
 }
@@ -59,4 +60,7 @@ div{
     font-size: 70px;
     color: #f5f5dc;
 
+}
+.one{
+    text-decoration: none;
 }
